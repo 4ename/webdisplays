@@ -1,5 +1,5 @@
 # WebDisplays for Minecraft 1.12.2
-This is the WebDisplays mod for Minecraft 1.12.2. Even though the source code is public, it is not an "open source" project. Read the "LICENSE" file for more informations.
+This is the WebDisplays mod for Minecraft 1.12.2. Even though the source code is public, it is not not an "open source" project. Read the "LICENSE" file for more informations.
 
 ### Wiki
 * The Wiki that details all blocks/items can be found on my website https://montoyo.net/wdwiki/
